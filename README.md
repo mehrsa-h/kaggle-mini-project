@@ -11,4 +11,5 @@ Cheers!
 Mehrsa
 
 [![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
+[![shell dark](https://github.com/altercation/solarized/raw/master/img/screen-shell-dark-th.png)](https://github.com/altercation/solarized/raw/master/img/screen-shell-dark.png)
 
