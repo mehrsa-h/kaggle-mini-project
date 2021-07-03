@@ -10,5 +10,5 @@ Hope you enjoy it!
 Cheers!
 Mehrsa
 
-![Happy coraline](C:\Users\DELL\Desktop\mahsa project\coraline.png "Happy mehrsa")
+[![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
 
