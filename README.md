@@ -9,3 +9,6 @@ It's a data of student(reading,writing and math score) we try to find any partic
 Hope you enjoy it!
 Cheers!
 Mehrsa
+
+<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+
